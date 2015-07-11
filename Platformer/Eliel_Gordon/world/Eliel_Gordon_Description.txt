@@ -1,0 +1,3 @@
+@Author: Eliel Gordon
+@Description: 
+For the game, I made a simple platformer. It involves the character jumping and smashing crates whilst avoiding them from crushing her. Press the arrow keys to move the character left, right, and the up arrow for jumping. The smashing and stacking of the boxes are yet to be implemented.
